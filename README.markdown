@@ -9,6 +9,8 @@ of the
 My version is designed to be 3D printed either in grey plastic or sanded and
 painted to better match the look of the orginal (and expensive) titanium.
 
+![An example in a CAD model](assembly.png)
+
 
 ## License
 
