@@ -1,4 +1,4 @@
-# NASA switch guards
+# NASA Switch Guards
 
 NASA shuttle-era toggle switch guards give a projec that "space age" feel. Space
 artifacts has
