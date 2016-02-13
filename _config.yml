@@ -1,1 +1,11 @@
-exclude: [source, stl, thingihub.json, README.markdown]
+exclude:
+ - README.markdown
+ - LICENSE.txt
+ - source
+ - stl
+ - thingihub.json
+ - '*.fcstd'
+ - example_mounting_plate.svg
+markdown: kramdown
+highlight: rouge
+
